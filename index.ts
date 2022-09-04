@@ -1,5 +1,4 @@
-import useFilter from "./src/uses/useFilter";
+// 工具类
+export * from "./src/tools";
 
-export default {
-  useFilter,
-};
+export * from "./src/directives";
